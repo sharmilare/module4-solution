@@ -1,7 +1,7 @@
 var names = new Array();
    names[0]="Hima";
 names[1]="Sharmi";
-names[2]="Jyothi";
+names[2]="jyothi";
 names[3]="Manoj";
 names[4]="Pavan";
 names[5]="Frank";
